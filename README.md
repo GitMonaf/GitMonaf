@@ -8,10 +8,7 @@
 <p align="center"><a href="(https://comptia.org)" target="_blank" rel="noreferrer"> <img src="https://github.com/emsh93/emsh93/blob/main/NetworkPlus%20Logo%20Certified%20CE.png" alt="bash" width="40" height="40"/> </a>
 <a href="(https://aws.amazon.com/)" target="_blank" rel="noreferrer"> <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" alt="bash" width="40" height="40"/> </a> <a href="(https://www.siemens.com/global/en.html)" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/images/19bfec66-2453-4e67-be25-eea175ad1130/38b3474b30521af47cf66d0e8f130cdc.png" alt="bash" width="40" height="40"/> </a></p>
 <h2 align="center">Gaming Interests</h1>
-<p align="center"><a href="https://worldofwarcraft.blizzard.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/WoW_icon.svg/1200px-WoW_icon.svg.png" alt="bash" width="40" height="40"/> </a><a href="https://diablo4.blizzard.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/0e/71/04/0e7104ae10f2f09a26d00f17f5ee0109.jpg" alt="bash" width="40" height="40"/> </a> <a href="https://starcraft2.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/892c91e0a653ba19df81a90f89d99bcd/32/256x256.png" alt="bash" width="40" height="40"/> </a></p>
 <h2 align="center">Certifications Diploms </h1>
-<p align="center"><a href="https://github.com/emsh93/My_achievements" target="_blank" rel="noreferrer"> <img src="https://www.transparentpng.com/thumb/click-here-button/A62YU7-click-here-button-free-download-transparent.png" alt="bash" width="120" height="50"/> </a></p>
-
 </a>
 <h2 align="center">Soft Skills</h2>
 

@@ -3,6 +3,7 @@
 <h3 align="center">Trust in your own abilities !</h3>
 <h2 align="center">Certifications Diploms </h1>
 <p align="center"> <a href="https://www.damascusuniversity.edu.sy/fmee/?lang=1&set=3&id=415" target="_blank" rel="noreferrer"> <img src="https://github.com/GitMonaf/GitMonaf/blob/main/D.png" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.smartindustrycampus.de/" target="_blank" rel="noreferrer"> <img src="https://github.com/GitMonaf/GitMonaf/blob/main/sic.png" alt="cplusplus" width="40" height="40"/> </a>  </p>
+</a>
 <h2 align="center"> Abilities </h1>
 <p align="center"> <a href="https://www.siemens.com/de/de/produkte/automatisierung/industrie-software/automatisierungs-software/tia-portal/software/step7-tia-portal.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/GitMonaf/GitMonaf/main/siemens.webp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.plattform-i40.de/IP/Navigation/EN/Industrie40/WhatIsIndustrie40/what-is-industrie40.html" target="_blank" rel="noreferrer"> <img src="https://github.com/GitMonaf/GitMonaf/blob/main/Industry-4.0-1.png" alt="cplusplus" width="40" height="40"/> </a> <a href="https://smartmaintenance.sk/" target="_blank" rel="noreferrer"> <img src="https://github.com/GitMonaf/GitMonaf/blob/main/smart-maintenance.png" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.festo.com/de/en/e/solutions/industry-segments-id_3834" target="_blank" rel="noreferrer"> <img src="https://github.com/GitMonaf/GitMonaf/blob/main/s-a.png" alt="cplusplus" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/cpp/default.asp" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  </p>
 </a>
@@ -15,11 +16,12 @@
 <h2 align="center">Soft Skills</h2>
 
 <p align="center">
-    Problem-Solving | Communication | Teamwork | Adaptability | Attention to Detail
+    Communication | Teamwork | Negotiation | Adaptability | Attention to Detail |
+  mobility and willingness to travel
 </p>
 <h2 align="center">Key Skills</h2>
 <p align="center">
-    Coding | Game Development | Networking | Cybersecurity | Problem-Solving | Collaboration
+      | systemmeInstallation | Maintenance | planning | Coding |  | Networking | Cybersecurity | Problem-Solving 
 </p>
 <pre>
 </pre>

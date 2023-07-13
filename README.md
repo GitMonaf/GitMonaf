@@ -38,7 +38,7 @@
 
 - 🌱 I’m currently learning **Linux Training, , Ethical Hacking, Jira.**
 
-- 👯 I’m looking to collaborate on **IT-Infrastruktur,(Server, Netzwerke, Datenbanken und andere IT-Systeme)**
+- 👯 I’m looking to collaborate on **Automation Engineer ( SPS-Programmierer Automatisierungstechnik, Maschinen- und Anlagenbau ) IT-Infrastruktur ( Server, Netzwerke, Datenbanken und andere IT-Systeme )**
 
 - 🤝 I’m looking for help with **Automatisierung, Skalierbarkeit und Cloud Computing**
 

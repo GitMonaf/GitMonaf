@@ -40,9 +40,9 @@
 
 - 👯 I’m looking to collaborate on **Automation Engineer ( PLC programmer automation technology, mechanical and plant engineering ) IT infrastructure ( servers, networks, databases and other IT systems )**
 
-- 🤝 I’m looking for help with **Automatisierung, Skalierbarkeit und Cloud Computing**
+- 🤝 I’m looking for help with **Automation, Scalability and Cloud Computing**
 
-- 💬 Ask me about **Datenbanken, Automatisierung, Prozessoptimierung**
+- 💬 Ask me about **Databases, Automation, Process Optimization**
 
 - 📫 How to reach me **monaf.alhalbi@gmx.de**
 

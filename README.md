@@ -20,6 +20,7 @@
   mobility and willingness to travel
 </p>
 <h2 align="center">Key Skills</h2>
+
 <p align="center">
       | systemmeInstallation | Maintenance | planning | Coding |  | Networking | Cybersecurity | Problem-Solving 
 </p>

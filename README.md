@@ -38,7 +38,8 @@
 
 - 🌱 I’m currently learning **Linux Training, , Ethical Hacking, Jira.**
 
-- 👯 I’m looking to collaborate on **Automation Engineer ( PLC programmer automation technology, mechanical and plant engineering ) IT infrastructure ( servers, networks, databases and other IT systems )**
+- 👯 I’m looking to collaborate on **Automation Engineer ( PLC programmer automation technology, mechanical and plant engineering ).
+  IT infrastructure ( servers, networks, databases and other IT systems )**
 
 - 🤝 I’m looking for help with **Automation, Scalability and Cloud Computing**
 
